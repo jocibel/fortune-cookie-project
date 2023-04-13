@@ -11,7 +11,7 @@ if fortune_number == 1:
 if fortune_number == 2:
     fortune_text = "Your day will be tough... but worth it."
 if fortune_number == 3:
-    fortune_text = "You will get married this year!"
+    fortune_text = "You will get a million dollars this year!"
 
 print(f"{fortune_text} Your lucky number is: {lucky_number}")
 
